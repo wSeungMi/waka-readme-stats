@@ -28,7 +28,7 @@
    What are languages you code in?
    <br/>
    Let's check out in your profile readme!
-</p>
+</p>. 
 
 <p align="center">
     <a href="https://github.com/anmol098/waka-readme-stats/issues">Report Bug</a>
